@@ -1,0 +1,11 @@
+.uploadListing{
+    display: flex;
+    flex-direction: column;;
+    width: 400px;
+    margin: 200px auto;
+    gap: 10px;
+}
+.uploadListing label{
+    display: flex;
+    justify-content: space-between;
+}

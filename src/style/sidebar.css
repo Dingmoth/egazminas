@@ -1,0 +1,12 @@
+.sidebar{
+    width: 300px;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    right: -300px;
+    background-color: red;
+    transition: all 1s;
+}
+.showSide{
+    right: 0px;
+}

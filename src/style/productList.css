@@ -1,0 +1,8 @@
+.productList{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    width: fit-content;
+    width: 80%;
+    margin: 80px auto;
+}

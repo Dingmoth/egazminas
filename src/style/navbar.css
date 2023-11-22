@@ -1,0 +1,14 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    padding: 20px 70px;
+    position: relative;
+    top: 0;
+}
+.buttonDefault{
+    transition: all 1s;
+}
+.moveButton{
+    margin-right: 280px;
+}
